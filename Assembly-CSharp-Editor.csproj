@@ -55,6 +55,7 @@
      <Compile Include="Assets\_IMPORTED_\Photon Unity Networking\Editor\PhotonNetwork\ServerSettingsInspector.cs" />
      <None Include="Assets\Plugins\release_history.txt" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Elementals\!Readme.txt" />
      <None Include="Assets\_IMPORTED_\Photon Unity Networking\readme.txt" />
      <None Include="Assets\Plugins\Photon3Unity3D.xml" />
      <None Include="Assets\_IMPORTED_\Photon Unity Networking\changelog.txt" />
